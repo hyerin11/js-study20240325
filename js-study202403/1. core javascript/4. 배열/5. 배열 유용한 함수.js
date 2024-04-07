@@ -17,7 +17,7 @@ for(var i=0; i< foodList.length; i++){
 
 //includes()  :특정 데이터가 있는지 없는지 논리롤 확인  true, false로 나옴
 var flag = foodList.includes('떡볶이');
-console.log(`flag: ${flag}`);  // false
+console.log(`flag: ${flag}`);  // false //
 
 
 
